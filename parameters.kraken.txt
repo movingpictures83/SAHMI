@@ -1,4 +1,4 @@
-sample	small1
+samplex	small1
 fq1	/biorg/data/RNA/UMiami/small/S12_R1.fastq
 fq2	/biorg/data/RNA/UMiami/small/S12_R2.fastq
 ncbi_blast_path	/usr/share/BLAST+/ncbi-blast-2.12.0+/bin/blastn
