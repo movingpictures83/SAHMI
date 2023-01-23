@@ -1,9 +1,10 @@
 Prefix pipelines/SAHMI/
-Plugin Kraken inputfile parameters.kraken.txt outputfile .
+#Plugin Kraken inputfile parameters.kraken.txt outputfile ./
+#Plugin Kraken inputfile parameters.kraken.gillian.txt outputfile ./
 #Plugin Cut inputfile parameters.cut.txt outputfile small1.kraken.report.std.txt
 #Plugin Kraken2MPA inputfile parameters.kraken2mpa.txt outputfile small1.kraken.report.mpa.txt
-#Plugin MicrobeReads inputfile parameters.microbereads.fq1.txt outputfile ./
-#Plugin MicrobeReads inputfile parameters.microbereads.fq2.txt outputfile ./
+Plugin MicrobeReads inputfile parameters.microbereads.fq1.txt outputfile ./output.microbereads.fq1.
+Plugin MicrobeReads inputfile parameters.microbereads.fq2.txt outputfile ./output.microbereads.fq2.
 #Plugin MicrobeOutput inputfile parameters.microbeoutput.txt outputfile ./
 #Plugin SCKmer inputfile parameters.sckmer.txt outputfile ./
-#Plugin BarcodeDeNoise inputfile parameters.barcodedenoise.txt outputfile .
+#Plugin BarcodeDeNoise inputfile parameters.barcodedenoise.txt outputfile none
