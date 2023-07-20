@@ -1,11 +1,11 @@
-sample_name	small1
-fa1	small1_1.fa
-fa2	small1_2.fa
-microbiome_output_file	small1.microbiome.output.txt
+sample_name	input
+fa1	output.microbereads.input1.fa
+fa2	output.microbereads.input2.fa
+microbiome_output_file	input.microbiome.output.txt
 cb_len	16
 umi_len	10
-kraken_report	small1.kraken.report.txt
-mpa_report	small1.kraken.report.mpa.txt
+kraken_report	output.kraken.report.txt
+mpa_report	output.kraken.report.mpa.txt
 host	9606
 min_frac	0.5
 kmer_len	35

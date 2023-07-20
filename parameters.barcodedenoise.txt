@@ -1,2 +1,2 @@
-kraken	full1.kraken.report.txt
-sckmer	full1.sckmer.txt
+kraken	output.kraken.report.txt
+sckmer	input.sckmer.txt

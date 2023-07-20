@@ -1,2 +1,2 @@
-txtfile	small1.kraken.report.txt
-counts	counts.txt
+txtfile	output.kraken.report.txt
+counts	../../counts.txt
