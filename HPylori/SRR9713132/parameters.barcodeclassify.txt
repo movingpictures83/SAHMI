@@ -1,0 +1,6 @@
+fa1	output.microbereads.input1.fa
+fa2	output.microbereads.input2.fa
+taxa	taxa.tsv
+sample_name	SRR9713132
+kraken_report	output.kraken.report.txt
+mpa_report	output.kraken.report.mpa.txt

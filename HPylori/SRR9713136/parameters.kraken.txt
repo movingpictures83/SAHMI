@@ -1,0 +1,6 @@
+samplex	output
+fq1	/biorg/data/HPylori/SRR9713136_1.fastq
+fq2	/biorg/data/HPylori/SRR9713136_2.fastq
+ncbi_blast_path	/usr/share/BLAST+/ncbi-blast-2.12.0+/bin/blastn
+Kraken2Uniq_path	/usr/share/bin/kraken2
+kraken_database_path	/lclhome/gjacobse/Kraken2_StandardDB
