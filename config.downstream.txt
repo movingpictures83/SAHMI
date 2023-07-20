@@ -1,0 +1,2 @@
+Plugin CellQuantile inputfile parameters.cellquantile.txt outputfile ./
+Plugin BarcodeClassify inputfile parameters.barcodeclassify.txt outputfile ./
