@@ -1,0 +1,8 @@
+pipelines/SAHMI/HPylori/SRR9713132/output.kraken.report.txt
+pipelines/SAHMI/HPylori/SRR9713133/output.kraken.report.txt
+pipelines/SAHMI/HPylori/SRR9713134/output.kraken.report.txt
+pipelines/SAHMI/HPylori/SRR9713135/output.kraken.report.txt
+pipelines/SAHMI/HPylori/SRR9713136/output.kraken.report.txt
+pipelines/SAHMI/HPylori/SRR9713137/output.kraken.report.txt
+pipelines/SAHMI/HPylori/SRR9713138/output.kraken.report.txt
+pipelines/SAHMI/HPylori/SRR9713139/output.kraken.report.txt
